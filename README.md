@@ -1,5 +1,7 @@
 **Project Description**
 
+![alt text](https://wallpaperaccess.com/full/2772922.png)
+
 In this project, I'll be applying Python skills to solve a real-world data science problem. The aim is to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using skills from lists and loops to pandas and matplotlib.
 
 This project is also about gaining experience in an essential data science skill — exploratory data analysis. Critical tasks such as manipulating raw data and drawing conclusions from plots you create of the data will are performed. 
